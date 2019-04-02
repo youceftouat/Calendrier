@@ -1,5 +1,5 @@
 # Calendrier
-Calendrier sur demande
+<strong>Calendrier sur demande</strong>
 
 Un programme tous simple, une bonne façon de s’initier a la programmation en langage java.
 
